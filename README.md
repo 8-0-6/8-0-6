@@ -1,7 +1,6 @@
 ### Hi, I'm Yanbo 👋
 
-Co-founder of **Simply Works Marketing**, building AI-native marketing for restaurants.
-I like small tools that save real time. Make things happen.
+Co-founder of **Simply Works Marketing**, an AI-native marketing agency doing done-for-you influencer marketing for high-end Asian restaurants in the US.
 
 <p>
   <a href="https://yanbowang.space"><img src="https://img.shields.io/badge/yanbowang.space-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
