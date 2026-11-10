@@ -1,8 +1,9 @@
-<pre>
-\_/_.._ |_  _  \    /_.._  _
- |(_|| ||_)(_)  \/\/(_|| |(_|
-                           _|
-</pre>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" alt="Yanbo Wang" width="420">
+  </picture>
+</p>
 
 <p align="center"><sub>welcome to yanbo's space. scroll around and explore my world of ventures, notes, and ideas.</sub></p>
 
@@ -15,7 +16,7 @@ about
 
 ```
 ventures
-├── simply-works-marketing   co-founder. bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
+├── simply-works-marketing   bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
 ├── argus                    AI ad comment protection for DTC brands
 ├── jobro                    A2A job platform, prev Tinder for Jobs
 ├── youfen                   no-code community co-governance, Web3 x AI
