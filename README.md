@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-I'm 22, from Changsha, China, and based in New York City. A consultant turned entrepreneur, a business major turned builder. I like products that feel inevitable, brands that travel, and systems that change behavior.
+I'm 22, from Changsha, China, and currently based in New York City. I love solving problems.
 
 ### Ventures
 
