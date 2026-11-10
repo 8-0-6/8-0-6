@@ -1,20 +1,51 @@
-### Hi, I'm Yanbo 👋
+<pre>
+      ___          ___          ___          ___          ___                   ___          ___          ___          ___
+     |\__\        /\  \        /\__\        /\  \        /\  \                 /\__\        /\  \        /\__\        /\  \
+     |:|  |      /::\  \      /::|  |      /::\  \      /::\  \               /:/ _/_      /::\  \      /::|  |      /::\  \
+     |:|  |     /:/\:\  \    /:|:|  |     /:/\:\  \    /:/\:\  \             /:/ /\__\    /:/\:\  \    /:|:|  |     /:/\:\  \
+     |:|__|__  /::\~\:\  \  /:/|:|  |__  /::\~\:\__\  /:/  \:\  \           /:/ /:/ _/_  /::\~\:\  \  /:/|:|  |__  /:/  \:\  \
+     /::::\__\/:/\:\ \:\__\/:/ |:| /\__\/:/\:\ \:|__|/:/__/ \:\__\         /:/_/:/ /\__\/:/\:\ \:\__\/:/ |:| /\__\/:/__/_\:\__\
+    /:/~~/~   \/__\:\/:/  /\/__|:|/:/  /\:\~\:\/:/  /\:\  \ /:/  /         \:\/:/ /:/  /\/__\:\/:/  /\/__|:|/:/  /\:\  /\ \/__/
+   /:/  /          \::/  /     |:/:/  /  \:\ \::/  /  \:\  /:/  /           \::/_/:/  /      \::/  /     |:/:/  /  \:\ \:\__\
+   \/__/           /:/  /      |::/  /    \:\/:/  /    \:\/:/  /             \:\/:/  /       /:/  /      |::/  /    \:\/:/  /
+                  /:/  /       /:/  /      \::/__/      \::/  /               \::/  /       /:/  /       /:/  /      \::/  /
+                  \/__/        \/__/        ~~           \/__/                 \/__/        \/__/        \/__/        \/__/
+</pre>
 
-Co-founder of **Simply Works Marketing**, bringing weekly local food creators to small- to medium-sized Asian restaurants in the US.
+<p align="center"><sub>welcome to yanbo's space. scroll around and explore my world of ventures, notes, and ideas.</sub></p>
 
-<p>
-  <a href="https://yanbowang.space"><img src="https://img.shields.io/badge/yanbowang.space-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Lean_4-333333?style=flat-square&logoColor=white" alt="Lean 4">
-</p>
+```
+about
+├── 22, from Changsha, China. based in New York City
+├── consultant turned entrepreneur, business major turned builder
+└── products that feel inevitable, brands that travel, systems that change behavior
+```
 
-**Small things I made**
+```
+ventures
+├── simply-works-marketing   co-founder. done-for-you marketing for Asian restaurants across the US
+├── argus                    AI ad comment protection for DTC brands
+├── jobro                    A2A job platform, prev Tinder for Jobs
+├── youfen                   no-code community co-governance, Web3 x AI
+└── small things
+    ├── im-done-mf           voice layer for Claude Code that speaks when your task is done
+    ├── its-been-days        Chrome extension for stale tabs
+    ├── gsc-index            bulk "Request indexing" in Google Search Console
+    └── jsp-formal           Lean 4 formalizations for the Justin Sun Prize problems
+```
 
-- [im-done-mf](https://github.com/8-0-6/im-done-mf): voice layer for Claude Code that speaks when your task is done
-- [its-been-days](https://github.com/8-0-6/its-been-days): Chrome extension to find stale tabs and get them back fast
-- [gsc-index](https://github.com/8-0-6/gsc-index): bulk "Request indexing" in Google Search Console
-- [jsp-formal](https://github.com/8-0-6/jsp-formal): Lean 4 formalizations for the Justin Sun Prize problems
+```
+experience
+├── oliver-wyman   2025   management consulting, Hong Kong
+└── tiktok         2024   strategy, Beijing
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8-0-6&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888" alt="Top languages" height="140">
+```
+contact
+└── if the overlap is product, growth, or a weirdly good idea: reach out
+```
+
+<a href="https://yanbowang.space"><b>yanbowang.space</b></a> ·
+<a href="https://x.com/yanbowang47">X</a> ·
+<a href="https://www.linkedin.com/in/ybw">LinkedIn</a> ·
+<a href="https://www.xiaohongshu.com/user/profile/60d164e80000000001008f79">RedNote</a>
