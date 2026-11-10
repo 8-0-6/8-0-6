@@ -1,10 +1,7 @@
 <pre>
-__  __            __             _       __
-\ \/ /___ _____  / /_  ____     | |     / /___ _____  ____ _
- \  / __ `/ __ \/ __ \/ __ \    | | /| / / __ `/ __ \/ __ `/
- / / /_/ / / / / /_/ / /_/ /    | |/ |/ / /_/ / / / / /_/ /
-/_/\__,_/_/ /_/_.___/\____/     |__/|__/\__,_/_/ /_/\__, /
-                                                   /____/
+\_/_.._ |_  _  \    /_.._  _
+ |(_|| ||_)(_)  \/\/(_|| |(_|
+                           _|
 </pre>
 
 <p align="center"><sub>welcome to yanbo's space. scroll around and explore my world of ventures, notes, and ideas.</sub></p>
@@ -18,7 +15,7 @@ about
 
 ```
 ventures
-├── simply-works-marketing   co-founder. done-for-you marketing for Asian restaurants across the US
+├── simply-works-marketing   co-founder. bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
 ├── argus                    AI ad comment protection for DTC brands
 ├── jobro                    A2A job platform, prev Tinder for Jobs
 ├── youfen                   no-code community co-governance, Web3 x AI
