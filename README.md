@@ -1,15 +1,7 @@
 <pre>
-      ___          ___          ___          ___          ___                   ___          ___          ___          ___
-     |\__\        /\  \        /\__\        /\  \        /\  \                 /\__\        /\  \        /\__\        /\  \
-     |:|  |      /::\  \      /::|  |      /::\  \      /::\  \               /:/ _/_      /::\  \      /::|  |      /::\  \
-     |:|  |     /:/\:\  \    /:|:|  |     /:/\:\  \    /:/\:\  \             /:/ /\__\    /:/\:\  \    /:|:|  |     /:/\:\  \
-     |:|__|__  /::\~\:\  \  /:/|:|  |__  /::\~\:\__\  /:/  \:\  \           /:/ /:/ _/_  /::\~\:\  \  /:/|:|  |__  /:/  \:\  \
-     /::::\__\/:/\:\ \:\__\/:/ |:| /\__\/:/\:\ \:|__|/:/__/ \:\__\         /:/_/:/ /\__\/:/\:\ \:\__\/:/ |:| /\__\/:/__/_\:\__\
-    /:/~~/~   \/__\:\/:/  /\/__|:|/:/  /\:\~\:\/:/  /\:\  \ /:/  /         \:\/:/ /:/  /\/__\:\/:/  /\/__|:|/:/  /\:\  /\ \/__/
-   /:/  /          \::/  /     |:/:/  /  \:\ \::/  /  \:\  /:/  /           \::/_/:/  /      \::/  /     |:/:/  /  \:\ \:\__\
-   \/__/           /:/  /      |::/  /    \:\/:/  /    \:\/:/  /             \:\/:/  /       /:/  /      |::/  /    \:\/:/  /
-                  /:/  /       /:/  /      \::/__/      \::/  /               \::/  /       /:/  /       /:/  /      \::/  /
-                  \/__/        \/__/        ~~           \/__/                 \/__/        \/__/        \/__/        \/__/
+\_/_.._ |_  _  \    /_.._  _
+ |(_|| ||_)(_)  \/\/(_|| |(_|
+                           _|
 </pre>
 
 <p align="center"><sub>welcome to yanbo's space. scroll around and explore my world of ventures, notes, and ideas.</sub></p>
@@ -23,7 +15,7 @@ about
 
 ```
 ventures
-├── simply-works-marketing   co-founder. done-for-you marketing for Asian restaurants across the US
+├── simply-works-marketing   co-founder. bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
 ├── argus                    AI ad comment protection for DTC brands
 ├── jobro                    A2A job platform, prev Tinder for Jobs
 ├── youfen                   no-code community co-governance, Web3 x AI
