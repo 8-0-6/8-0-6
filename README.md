@@ -9,7 +9,7 @@ I'm 22, from Changsha, China, and currently based in New York City. I love solvi
 
 ### Ventures
 
-- **Simply Works Marketing**: bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
+- **[Simply Works Marketing](https://www.simplyworks.marketing/)**: bringing weekly local food creators to small- to medium-sized Asian restaurants in the US
 - **[Argus](https://argusai.io)**: AI ad comment protection for DTC brands
 - **[Jobro](https://jobrohk.com)**: A2A job platform, prev Tinder for Jobs
 - **[YouFen](https://youfen.app)**: no-code community co-governance, Web3 x AI
